@@ -17,7 +17,9 @@
 "/events/community-meeting.md","/events/community-meeting.md"
 "/events/office-hours.md","/events/office-hours.md"
 "/mentoring/programs/meet-our-contributors.md","/events/meet-our-contributors.md"
-"/sig-list.md","/resources/community-groups/index.md"
+"/sig-list.md","/community/community-groups.md"
+"/mentoring/README.md","/community/mentoring.md
+"/values.md","/community/values.md"
 "/communication/best-practices.md","/docs/comms/notifications.md"
 "/communication/calendar-guidelines.md","/docs/comms/calendars.md"
 "/communication/discuss-guidelines.md",/docs/comms/discuss.md"
@@ -29,3 +31,4 @@
 "/communication/zoom-guidelines.md","/docs/comms/zoom.md"
 "/communication/youtube/youtube-guidelines.md","/docs/comms/youtube.md"
 "/github-management/default-branch-migration.md","/resources/rename.md"
+"/committee-code-of-conduct/incident-process.md","/community/code-of-conduct-incident-process.md"
